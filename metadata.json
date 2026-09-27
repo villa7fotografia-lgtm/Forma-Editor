@@ -1,0 +1,6 @@
+{
+  "name": "Forma Editor",
+  "description": "Forma Editor - Suíte Profissional de Revelação, Edição de Fotos, Remoção de Objetos e Análise de Lote.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
